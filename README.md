@@ -31,7 +31,7 @@ curl -sL1 https://nubit.sh | bash
 ```
 you should see the following message:
 ![alt text](https://raw.githubusercontent.com/it-blockchain/Nubit/main/images/2024-06-19%2019_06_12-Run%20a%20Node%20-%20FAQ%20_%20Nubit.png)
-For further check:
+# For further check:
 ```bash
 
 $HOME/nubit-node/bin/nubit das sampling-stats --node.store $HOME/.nubit-light-nubit-alphatestnet-1
