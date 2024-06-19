@@ -8,9 +8,14 @@ https://docs.nubit.org/nubit-da/run-a-node
 # Hardware for node
 ![alt text](https://raw.githubusercontent.com/it-blockchain/Nubit/main/images/2024-06-19%2018_10_34-Run%20a%20Node%20(Advanced)%20_%20Nubit.png)
 
-# Run a Light Node with One Command
+Output and Save PUBKEY and AUTHKEY: Run a Light Node with One Command
 ```bash
 
 curl -sL1 https://nubit.sh | bash
 
 ```
+# Output and Save PUBKEY and AUTHKEY:
+The script outputs the generated PUBKEY and AUTHKEY, which are essential for node operations and security.
+
+Ensure these keys are saved securely.
+![alt text](https://raw.githubusercontent.com/it-blockchain/Nubit/main/images/2024-06-19%2019_00_51-Ubuntu.NODE%20CRYPTO%20-%20VMware%20Workstation.png)
