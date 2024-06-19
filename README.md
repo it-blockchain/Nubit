@@ -9,7 +9,7 @@ https://docs.nubit.org/nubit-da/run-a-node
 ![alt text](https://raw.githubusercontent.com/it-blockchain/Nubit/main/images/2024-06-19%2018_10_34-Run%20a%20Node%20(Advanced)%20_%20Nubit.png)
 
 
-To install the node, you only need to enter a single script. The node is installed with just one script.
+<span style="color:red">To install the node, you only need to enter a single script. The node is installed with just one script.</span>
 # Output and Save PUBKEY and AUTHKEY: Run a Light Node with One Command
 ```bash
 
