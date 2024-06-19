@@ -19,3 +19,14 @@ The script outputs the generated PUBKEY and AUTHKEY, which are essential for nod
 
 Ensure these keys are saved securely.
 ![alt text](https://raw.githubusercontent.com/it-blockchain/Nubit/main/images/2024-06-19%2019_00_51-Ubuntu.NODE%20CRYPTO%20-%20VMware%20Workstation.png)
+
+# How shall I confirm my node is running correctly?
+After running: 
+```bash
+
+curl -sL1 https://nubit.sh | bash
+
+```
+you should see the following message:
+
+
