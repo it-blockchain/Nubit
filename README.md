@@ -35,4 +35,4 @@ For further check:
 $HOME/nubit-node/bin/nubit das sampling-stats --node.store $HOME/.nubit-light-nubit-alphatestnet-1
 
 ```
-
+![alt text](https://raw.githubusercontent.com/it-blockchain/Nubit/main/images/13.png)
