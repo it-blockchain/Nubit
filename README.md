@@ -28,15 +28,20 @@ To install the node, you only need to enter a single script. The node is install
 curl -sL1 https://nubit.sh | bash
 
 ```
+ Output and Save PUBKEY and AUTHKEY:
+The script outputs the generated PUBKEY and AUTHKEY, which are essential for node operations and security.
+
+Ensure these keys are saved securely.
+![alt text](https://raw.githubusercontent.com/it-blockchain/Nubit/main/images/2.png)
 Step 4: Detach from the Screen Session
 After starting the node, detach from the screen session to keep it running in the background. You can do this by pressing CTRL + A + D.
 
 # Monitor Node Logs
-# Output and Save PUBKEY and AUTHKEY:
-The script outputs the generated PUBKEY and AUTHKEY, which are essential for node operations and security.
+```bash
 
-Ensure these keys are saved securely.
-![alt text](https://raw.githubusercontent.com/it-blockchain/Nubit/main/images/2024-06-19%2019_00_51-Ubuntu.NODE%20CRYPTO%20-%20VMware%20Workstation.png)
+screen -r nubit
+
+```
 
 # How shall I confirm my node is running correctly?
 After running: 
