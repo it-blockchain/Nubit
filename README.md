@@ -14,18 +14,24 @@ Step 1: Update and Install Required Packages
 
 sudo apt update && sudo apt upgrade -y
 sudo apt install curl git wget build-essential jq screen -y
+```
+Step 2: Start a Screen Session
+```bash
 
+screen -S nubit
 
 ```
-
+Step 3: Install Nubit
 To install the node, you only need to enter a single script. The node is installed with just one script.
-
-# Output and Save PUBKEY and AUTHKEY: Run a Light Node with One Command
 ```bash
 
 curl -sL1 https://nubit.sh | bash
 
 ```
+Step 4: Detach from the Screen Session
+After starting the node, detach from the screen session to keep it running in the background. You can do this by pressing CTRL + A + D.
+
+# Monitor Node Logs
 # Output and Save PUBKEY and AUTHKEY:
 The script outputs the generated PUBKEY and AUTHKEY, which are essential for node operations and security.
 
