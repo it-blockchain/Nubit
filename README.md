@@ -8,6 +8,15 @@ https://docs.nubit.org/nubit-da/run-a-node
 # Hardware for node
 ![alt text](https://raw.githubusercontent.com/it-blockchain/Nubit/main/images/2024-06-19%2018_10_34-Run%20a%20Node%20(Advanced)%20_%20Nubit.png)
 
+# Setting Up a Nubit Node
+Step 1: Update and Install Required Packages
+```bash
+
+sudo apt update && sudo apt upgrade -y
+sudo apt install curl git wget build-essential jq screen -y
+
+
+```
 
 To install the node, you only need to enter a single script. The node is installed with just one script.
 
