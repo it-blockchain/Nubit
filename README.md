@@ -59,4 +59,4 @@ $HOME/nubit-node/bin/nubit das sampling-stats --node.store $HOME/.nubit-light-nu
 
 ```
 You will receive a response similar to the following to verify that your node is running successfully:
-![alt text](https://raw.githubusercontent.com/it-blockchain/Nubit/main/images/13.png)
+![alt text](https://raw.githubusercontent.com/it-blockchain/Nubit/main/images/3.png)
